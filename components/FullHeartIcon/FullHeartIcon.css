@@ -1,0 +1,48 @@
+.full-heart-icon-1.full-heart-icon-2 {
+  left: 476px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 419px;
+}
+.full-heart-icon-1:hover {
+
+opacity: 1;
+}
+.full-heart-icon-2 {
+  height: 31px;
+  margin-left: -8px;
+  margin-top: -5px;
+  mix-blend-mode: normal;
+  opacity: 0.01;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 31px;
+}
+.full-heart-icon-2:hover {
+
+opacity: 1;
+}
+.overlap-group8-4 {
+  height: 33px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 33px;
+}
+.path-3 {
+  height: 24px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 26px;
+}
+.path-4 {
+  height: 20px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 23px;
+}

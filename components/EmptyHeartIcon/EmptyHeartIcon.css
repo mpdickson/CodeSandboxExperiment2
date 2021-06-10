@@ -1,0 +1,24 @@
+.empty-heart-icon {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  justify-content: center;
+  left: 476px;
+  min-width: 31px;
+  position: absolute;
+  top: 419px;
+}
+.overlap-group5-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 33px;
+  padding: 4.4px 3.5px;
+}
+.shape {
+  height: 24px;
+  mix-blend-mode: normal;
+  width: 26px;
+}

@@ -1,0 +1,40 @@
+.bubble-4 {
+  height: 120px;
+  left: 244px;
+  mix-blend-mode: normal;
+  opacity: 0.01;
+  pointer-events: auto;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+.bubble-4:hover {
+
+opacity: 1;
+}
+.oval-4 {
+  background-color: var(--denim);
+  border-radius: 5.5px;
+  height: 11px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+.overlap-group9-2 {
+  height: 80px;
+  left: 18px;
+  position: absolute;
+  top: 41px;
+  width: 11px;
+}
+.path-6-copy-2 {
+  height: 74px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}

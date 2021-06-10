@@ -1,0 +1,24 @@
+.bubble-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+.overlap-group4-6 {
+  height: 31px;
+  position: relative;
+  width: 46px;
+}
+.title-10 {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

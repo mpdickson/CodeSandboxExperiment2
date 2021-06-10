@@ -1,0 +1,48 @@
+.ellipse-1 {
+  background-color: var(--rose);
+  border-radius: 5.5px;
+  height: 11px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 11px;
+}
+.ellipse-2 {
+  border-radius: 21.5px;
+  height: 43px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+.ellipse-2 img {
+  object-fit: cover;
+}
+.ellipse-2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+.feature-dot {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  left: 3px;
+  min-width: 43px;
+  position: absolute;
+  top: 0;
+}
+.feature-dot-2.feature-dot {
+  left: 0;
+}
+.feature-dot-3.feature-dot {
+  left: 112px;
+}
+.overlap-group4-8 {
+  border-radius: 21.5px;
+  height: 43px;
+  position: relative;
+  width: 43px;
+}

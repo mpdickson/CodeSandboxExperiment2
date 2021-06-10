@@ -1,0 +1,119 @@
+.cm {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 3px;
+  margin-top: 7.0px;
+  min-height: 12px;
+  min-width: 18px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.flex-row-11 {
+  align-items: center;
+  display: flex;
+  margin-left: 4px;
+  margin-top: 6px;
+  min-width: 64px;
+}
+.flex-row-12 {
+  align-items: center;
+  display: flex;
+  margin-left: 8.5px;
+  margin-top: 6px;
+  min-width: 48px;
+}
+.hight {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 41px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 70px;
+}
+.hight-weight {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 20px;
+  min-width: 165px;
+}
+.kg {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 4px;
+  margin-top: 7.0px;
+  min-height: 12px;
+  min-width: 15px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.path-1-1 {
+  height: 1px;
+  margin-left: -0.5px;
+  mix-blend-mode: normal;
+  width: 71px;
+}
+.path-1-2 {
+  height: 1px;
+  mix-blend-mode: normal;
+  width: 71px;
+}
+.path-2 {
+  height: 1px;
+  margin-top: 6px;
+  mix-blend-mode: normal;
+  width: 71px;
+}
+.path-2-1 {
+  height: 1px;
+  margin-left: -0.5px;
+  margin-top: 6px;
+  mix-blend-mode: normal;
+  width: 71px;
+}
+.weight {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 41px;
+  margin-left: 25px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 70px;
+}
+.x165 {
+  background-color: transparent;
+  border: 0;
+  flex-shrink: 1;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  padding: 0;
+  resize: none;
+  text-align: center;
+  white-space: nowrap;
+  width: 43px;
+}
+.x165::placeholder {
+  color: #1d483599;
+}
+.x55 {
+  background-color: transparent;
+  border: 0;
+  flex-shrink: 1;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  padding: 0;
+  resize: none;
+  text-align: center;
+  white-space: nowrap;
+  width: 29px;
+}
+.x55::placeholder {
+  color: #1d483599;
+}
